@@ -1,0 +1,1 @@
+# TrendMind_AI_Project
