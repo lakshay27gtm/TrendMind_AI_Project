@@ -1,0 +1,12 @@
+
+streamlit
+tensorflow
+numpy
+nltk
+spacy
+transformers
+scikit-learn
+gensim
+wordcloud
+matplotlib
+pandas
